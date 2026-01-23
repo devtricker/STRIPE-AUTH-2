@@ -11,8 +11,8 @@ import os
 app = Flask(__name__)
 
 # Proxy Setup (Updated to fresh)
-PROXY_HOST = "142.111.48.253"
-PROXY_PORT = "7030"
+PROXY_HOST = "23.95.150.145"
+PROXY_PORT = "6114"
 PROXY_USER = "nuhqfbby"
 PROXY_PASS = "517pqucq7vwv"
 PROXY_STR = f"http://{PROXY_USER}:{PROXY_PASS}@{PROXY_HOST}:{PROXY_PORT}"
