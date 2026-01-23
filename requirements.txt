@@ -1,1 +1,8 @@
-
+flask
+flask-cors
+requests
+cloudscraper
+faker
+beautifulsoup4
+lxml
+gunicorn
